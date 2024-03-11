@@ -1,0 +1,8 @@
+{
+    "cucumberautocomplete.steps": [
+        
+        
+        "./Steps/**/*.cs"
+    ],
+    "cucumberautocomplete.syncfeatures": false
+}
